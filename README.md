@@ -1,16 +1,67 @@
-# React + Vite
+# 🏡 React RealEstate UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully **responsive RealEstate frontend application** built with **React, Tailwind CSS, and Framer Motion**.
+This project showcases property listings, interactive cards, sliders, and animations to provide a smooth and modern user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## React Compiler
+⚡ **Animations**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Smooth hover effects
+* Framer Motion animations for sliders and modals
+* Page transitions for a fluid experience
 
-## Expanding the ESLint configuration
+📱 **Responsive Design**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Fully mobile-first layout with Tailwind breakpoints
+* Optimized for tablets and desktops
+
+🔧 **Customizable**
+
+* Tailwind CSS classes for easy styling changes
+* Framer Motion props for custom animations
+
+---
+
+## 📸 Screenshots
+
+<div align="center">
+  <img src="screenshots/screenshot1.png" alt="Home Page" width="250"/> &emsp;
+  <img src="screenshots/screenshot2.png" alt="Property Listing" width="250"/> &emsp;
+  <img src="screenshots/screenshot3.png" alt="Property Details" width="250"/>
+</div>
+
+---
+
+## 🚀 Getting Started
+
+Clone this repo and explore the application.
+
+### ▶️ Run Project
+
+```bash
+cd RealEstate
+npm install
+npm run dev
+```
+
+---
+
+## 🛠️ Tech Stack
+
+* **React** – Component-based UI library
+* **Tailwind CSS** – Utility-first CSS framework
+* **Framer Motion** – Animations and page transitions
+
+---
+
+## 🙋 Author
+
+**Santhosh Kumar P S**
+
+📧 Email: [santhoshkumarsakthi2003@gmail.com](mailto:santhoshkumarsakthi2003@gmail.com)
+
+💻 GitHub: [SanthoshKumar-PS](https://github.com/SanthoshKumar-PS)
+------------------------------------------------------------------
