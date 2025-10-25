@@ -4,6 +4,12 @@ A fully **responsive RealEstate frontend application** built with **React, Tailw
 This project showcases property listings, interactive cards, sliders, and animations to provide a smooth and modern user experience.
 
 ---
+## 🌐 Live Deployment
+
+Experience the full application online here:  
+[https://realestate-app.vercel.app/](https://real-estate-website-eta-gilt.vercel.app/)
+
+---
 
 ## ✨ Features
 
@@ -29,8 +35,10 @@ This project showcases property listings, interactive cards, sliders, and animat
 
 <div align="center">
   <img src="screenshots/screenshot1.png" alt="Home Page" width="250"/> &emsp;
-  <img src="screenshots/screenshot2.png" alt="Property Listing" width="250"/> &emsp;
-  <img src="screenshots/screenshot3.png" alt="Property Details" width="250"/>
+  <img src="screenshots/screenshot2.png" alt="About" width="250"/> &emsp;
+  <img src="screenshots/screenshot3.png" alt="Projects" width="250"/> &emsp;
+  <img src="screenshots/screenshot4.png" alt="Contact" width="250"/> &emsp;
+  <img src="screenshots/screenshot5.png" alt="Footer" width="250"/> &emsp;
 </div>
 
 ---
